@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>SharpFont</id>
+    <id>VBChunguk.SharpFont</id>
     <version>3.1.0</version>
-    <title>SharpFont</title>
+    <title>VBChunguk.SharpFont</title>
     <authors>Robert Rouhani</authors>
     <owners>VBChunguk</owners>
     <licenseUrl>https://github.com/Robmaister/SharpFont/blob/master/LICENSE</licenseUrl>
