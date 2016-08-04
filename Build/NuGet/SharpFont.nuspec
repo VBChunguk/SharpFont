@@ -9,7 +9,10 @@
     <licenseUrl>https://github.com/Robmaister/SharpFont/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Robmaister/SharpFont</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Cross-platform FreeType bindings for C#.</description>
+    <description>
+      This is a fork for use in osu!.
+      Cross-platform FreeType bindings for C#.
+    </description>
     <releaseNotes>
       - Deprecated use of the "Generic" property in place of a Tag property and Disposed event.
       - Added FixedXDotY functions for the native FT Computations functions.
